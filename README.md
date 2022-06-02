@@ -10,4 +10,4 @@ USAGE :
 
 echo "expression" | ./calc "base" "operators" size_to_echo
 
-echo "3+3" | ./calc "0123456789" "()+-*/%" 3 #should output 6
+echo "3+3" | ./calc "0123456789" "()+-*/%" 3
